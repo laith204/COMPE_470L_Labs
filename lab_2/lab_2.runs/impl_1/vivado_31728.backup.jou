@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2024.2 (64-bit)
+# SW Build 5239630 on Fri Nov 08 22:35:27 MST 2024
+# IP Build 5239520 on Sun Nov 10 16:12:51 MST 2024
+# SharedData Build 5239561 on Fri Nov 08 14:39:27 MST 2024
+# Start of session at: Wed Jan 29 10:03:30 2025
+# Process ID         : 31728
+# Current directory  : C:/Users/laith/Desktop/lab_2/lab_2.runs/impl_1
+# Command line       : vivado.exe -log top.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source top.tcl -notrace
+# Log file           : C:/Users/laith/Desktop/lab_2/lab_2.runs/impl_1/top.vdi
+# Journal file       : C:/Users/laith/Desktop/lab_2/lab_2.runs/impl_1\vivado.jou
+# Running On         : LaithLaptop
+# Platform           : Windows Server 2016 or Windows 10
+# Operating System   : 26100
+# Processor Detail   : Intel(R) Core(TM) Ultra 7 155H
+# CPU Frequency      : 2995 MHz
+# CPU Physical cores : 16
+# CPU Logical cores  : 22
+# Host memory        : 33752 MB
+# Swap memory        : 2147 MB
+# Total Virtual      : 35900 MB
+# Available Virtual  : 14101 MB
+#-----------------------------------------------------------
+source top.tcl -notrace
